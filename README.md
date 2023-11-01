@@ -20,7 +20,7 @@
 
  4. Levantar la base de datos
  ```
- docker.compose up -d
+ docker-compose up -d
  ```
 
  ## Stack usado
